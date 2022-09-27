@@ -9,7 +9,7 @@ To be safe fork this repo and then press deploy button from the forked repo
 
 Fork Deploy is highly recommended
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TgCatUB/nekopack)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy=https://github.com/TgCatUB/nekopack)
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
